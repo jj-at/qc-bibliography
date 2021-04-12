@@ -6,5 +6,5 @@
 
 ## Methodology
 
----
-## Annex: citation management tools
+## Annex
+* Citation management tools
