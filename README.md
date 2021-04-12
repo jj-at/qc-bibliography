@@ -6,4 +6,4 @@
 
 ## Topics
 
-## Citation management tools
+## Annex: citation management tools
