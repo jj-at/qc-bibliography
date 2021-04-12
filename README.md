@@ -2,8 +2,9 @@
 
 ## Purpose
 
-## Methodology
-
 ## Topics
 
+## Methodology
+
+---
 ## Annex: citation management tools
