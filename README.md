@@ -1,7 +1,7 @@
 # Quantum Computing Biography
 
 ## Purpose
-Reconstruct a **chronological biography** based on the founding articles of **quantum computing**.
+**Reconstruct a _chronological biography_ based on the _founding articles_ of quantum computing**.
 ## Topics
 
 ## Methodology
