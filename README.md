@@ -1,4 +1,4 @@
-# Quantum Computing Biography
+# Quantum Computing Bibliography
 
 ## Purpose
 **Reconstruct a _chronological biography_ based on the _founding articles_ of quantum computing**.
